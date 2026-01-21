@@ -36,4 +36,4 @@ class FlashPattern(BasePattern):
             ],
         ]
 
-__Pattern_export__ = FlashPattern
+__pattern_export__ = FlashPattern
