@@ -37,4 +37,4 @@ description = "green version of the built in flash pattern for testing led seque
 # increased, we interpret this as a new version being released.
 #
 # Version number must be an integer!
-version = "0.0.3"
+version = "0.0.2"
